@@ -2,7 +2,7 @@
 
 Simple VPN with Wireguard connection in Swift
 
-for run and setup wireguard folow =>
+for run and setup wireguard follow =>
 
 https://github.com/WireGuard/wireguard-apple
 
